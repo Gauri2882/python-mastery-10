@@ -1,4 +1,4 @@
-'Project: Handwriting Digit Recognition'
+'Project 72: Handwriting Digit Recognition'
 
 import tensorflow as tf
 import matplotlib.pyplot as plt

@@ -1,4 +1,4 @@
-' Project: Object Detection App '
+" Project: Object Detection App "
 
 import torch
 import cv2
